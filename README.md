@@ -1,5 +1,6 @@
 # robofriends
-This is the course project. Also this is my first complete React App. 
+This is the course project. \n
+Also this is my first complete React App. \n
 To run the project:
 
 1. Clone this repo
