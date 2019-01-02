@@ -1,8 +1,7 @@
 # robofriends
-This is the course project. \n
-Also this is my first complete React App. \n
+This is the course project. 
+Also this is my first complete React App. 
 To run the project:
-
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
